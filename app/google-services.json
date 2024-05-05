@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "805546105286",
+    "project_id": "hospital-finder-3b044",
+    "storage_bucket": "hospital-finder-3b044.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805546105286:android:223b369f3f1326ae6c3ac7",
+        "android_client_info": {
+          "package_name": "com.msingh.hospitalfinder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK7MLVnTp5LAptXa3Pbz8MXvM8niMfCsA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
